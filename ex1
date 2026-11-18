@@ -1,0 +1,8 @@
+
+
+
+import heapq
+
+
+numbers = [3,6,4,2,10,100]
+print(heapq.nlargest(1, numbers))
